@@ -1,0 +1,38 @@
+body{
+
+    background-color: red;
+    text-align: right;
+}
+
+h1{
+text-align: center;
+
+} 
+ h4{
+text-align: left;
+
+}
+
+table{
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+
+td{
+
+width: 50px;
+height: 50px;
+
+
+}
+.caseblanche{
+
+    background-color: white;
+}
+.casenoire{
+
+    background-color: black;
+}
